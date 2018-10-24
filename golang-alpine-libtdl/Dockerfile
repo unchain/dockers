@@ -1,4 +1,4 @@
-# unchain/golang-libtdl:alpine
+# unchain/golang-alpine-libtdl
 
 FROM golang:alpine
 
